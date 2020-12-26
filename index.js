@@ -8,3 +8,10 @@ for (let i=0; i<name.length ;i++){
 }
 return array;
 }
+
+function countDown(i){
+while (i>=0){
+console.log(i--);
+}
+}
+countDown(11);
