@@ -8,4 +8,3 @@ for (let i=0; i<name.length ;i++){
 }
 return array;
 }
-
