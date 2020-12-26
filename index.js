@@ -5,6 +5,6 @@ function writeCards(name, eventName) {
 for (let i=0; i<name.length ;i++){
   console.log([`Thank you, ${name[i]}, for the wonderful ${eventName} gift!`]);
 }
-return name;
+return writecards(name);
 }
-writeCards(name);
+//writeCards(name);
